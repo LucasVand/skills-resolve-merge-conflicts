@@ -1,3 +1,3 @@
-# References
+this is a conflit
 
-* octocat 1 😈
+this is another conflict
